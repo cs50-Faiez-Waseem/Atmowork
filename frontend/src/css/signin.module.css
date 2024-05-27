@@ -1,0 +1,20 @@
+.mainBg {
+    background: linear-gradient(180deg, #FFF 0%, #AC7DD1 100%);
+    min-height: 100vh;
+}
+
+.bgPayment {
+    background: linear-gradient(270deg, #B698DC 0%, #AC66E1 100%);
+}
+
+.payment_rectangle {
+    background-image: url(../../public/assets/Rectangle_payment.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.payment_card {
+    border-radius: 20px;
+    background: linear-gradient(90deg, #AC8CDF 0%, #9D71E5 100%);
+    box-shadow: 0px 4px 4px 3px rgba(0, 0, 0, 0.25);
+}
